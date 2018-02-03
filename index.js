@@ -19,8 +19,8 @@ function divide(a, b){
 }
 divide(10,2)
 
+var n = 2;
 function inc(n){
   return n++;
   
 }
-inc(550)
