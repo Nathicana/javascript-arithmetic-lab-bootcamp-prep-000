@@ -37,3 +37,8 @@ function makeInt(n){
   
 }
 makeInt("6")
+
+function preserveDecimal(n){
+  return (parseFloat(n))
+  }
+preserveDecimal("nonsense")
