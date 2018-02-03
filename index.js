@@ -25,3 +25,9 @@ function inc(n){
   
 }
 inc(6)
+
+function dec(n){
+  return --n;
+  
+}
+inc(7)
