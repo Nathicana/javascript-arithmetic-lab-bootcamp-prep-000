@@ -30,4 +30,4 @@ function dec(n){
   return --n;
   
 }
-inc(7)
+dec(7)
