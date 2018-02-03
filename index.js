@@ -24,3 +24,4 @@ function inc(n){
   return n++;
   
 }
+inc(6)
