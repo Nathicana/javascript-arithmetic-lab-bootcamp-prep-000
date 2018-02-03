@@ -32,3 +32,8 @@ function dec(n){
 }
 dec(7)
 
+function makeInt(n){
+  return parseInt(n);
+  
+}
+makeInt("6")
