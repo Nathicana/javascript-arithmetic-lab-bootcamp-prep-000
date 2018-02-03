@@ -36,7 +36,7 @@ function makeInt(n){
   return (parseInt(n));
   
 }
-makeInt("6")
+makeInt("6", 10)
 
 function preserveDecimal(n){
   return (parseFloat(n))
