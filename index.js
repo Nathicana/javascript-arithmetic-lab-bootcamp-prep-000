@@ -18,3 +18,9 @@ function divide(a, b){
   return a/b;
 }
 divide(10,2)
+
+function inc(n){
+  return n++;
+  
+}
+inc(5)
